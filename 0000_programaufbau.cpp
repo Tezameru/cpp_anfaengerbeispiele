@@ -14,5 +14,8 @@ std::cout << "Hello World!";  //(4)
 
 //(1) Die erste Zeile gibt an, welche Praeprozessoren genutzt werden. hier iostream, der ein- und ausgabe regelt.
 //(2) Die zweite Zeile ist leer. Das macht überhaupt nichts aus. Leere Zeilen werden einfach ignoriert, helfen dazu beim lesen.
-//(3) Die dritte Zeile beinhaltet main, welche in jedem ausfuehrbaren program einmal vorkommen darf und muss.
-//(4) Die vierte Zeile beinhaltet ist ein statement.
+/*(3) Die dritte Zeile beinhaltet main, welche in jedem ausfuehrbaren program einmal vorkommen darf und muss. 
+Die offene Klammer sagt uns das hier der aufbau von main beginnt.*/
+/*(4) Die vierte Zeile beinhaltet ein statement. In diesem falle wird die funktion cout aus der std library genutzt.
+Wir sagen mit << das er "Hello World!" auf dem Bildschirm aufgeben soll. */
+//(5) Die geschlossene geschweifte  Klammer sagt uns, dass der Aufbau von main hier abgeschlossen ist.
