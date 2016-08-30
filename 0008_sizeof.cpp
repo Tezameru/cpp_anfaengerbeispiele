@@ -14,3 +14,7 @@ int main() {
 
 return 0;
 }
+
+
+/*Eine weitere Darstellung davon wieviele Bytes eigentlich für die
+verschiedenen Werte genutzt werden um einem noch einmal detaillierter Klar zu machen*/
